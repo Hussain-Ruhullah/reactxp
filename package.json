@@ -13,6 +13,7 @@
   "dependencies": {
     "lodash": "^4.17.15",
     "prop-types": "^15.7.2",
+    "react-awesome-qr": "^1.1.0",
     "rebound": "^0.1.0",
     "subscribableevent": "^1.0.1"
   },
